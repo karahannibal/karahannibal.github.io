@@ -17,3 +17,5 @@ url: "http://karahannibal.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
